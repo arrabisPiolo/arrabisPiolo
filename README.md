@@ -1,5 +1,4 @@
-[<img src="[https://user-images.githubusercontent.com/101545333/202671688-6a787e44-4125-4741-a2e4-3c648b005c79.gif](https://user-images.githubusercontent.com/101545333/202837763-3d323110-8e97-410d-a2aa-676425602235.png)" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-
+![Header]((https://user-images.githubusercontent.com/101545333/202837763-3d323110-8e97-410d-a2aa-676425602235.png)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00cf00)
 <!--
 **Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
