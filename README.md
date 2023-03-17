@@ -22,7 +22,9 @@
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Save_theDay#2934" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/arrabisPiolo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Save_theDay#2934" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/arrabisPiolo" target="_blank" rel="noreferrer"><img src="https://example.com/white-github-logo.svg" width="32" height="32" /></a>
+</p>
 
 [![Civarry's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=arrabisPiolo&hide=html&theme=algolia&show_icons=true&layout=compact&langs_count=10&card_width=1000)](https://github.com/arrabisPiolo/)
 
