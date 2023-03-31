@@ -1,5 +1,4 @@
 [<img src="https://user-images.githubusercontent.com/101545333/202880765-eaa08ae1-f3dc-4a72-b579-07d6b8502a60.png" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00cf00)
 
 * 🌍  I'm based in Philppines
 🖥️  See my portfolio at [MyPortfolio](http://weather-app.pioloarrabis.repl.co/)
