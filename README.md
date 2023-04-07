@@ -1,8 +1,7 @@
 [<img src="https://user-images.githubusercontent.com/101545333/202880765-eaa08ae1-f3dc-4a72-b579-07d6b8502a60.png" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 * 🌍  I'm based in Philppines
-🖥️  See my portfolio at [MyPortfolio](http://weather-app.pioloarrabis.repl.co/)
-* ✉️  You can contact me at [arrabis1708@gmaio.com](mailto:arrabis1708@gmaio.com)
+* ✉️  You can contact me at [arrabis1708@gmail.com](mailto:arrabis1708@gmaio.com)
 * 🧠  I'm learning Vanilla Javascript
 
 ### Skills
